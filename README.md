@@ -7,5 +7,5 @@
 correspondente a 110% de sua despesa adicional.</p>
 
 ## Classes implementadas no exemplo  
-   <img src="classes.png>
+   <img src="classes.png" style="align:center";>
    
