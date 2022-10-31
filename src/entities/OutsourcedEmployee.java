@@ -23,6 +23,7 @@ public class OutsourcedEmployee extends Employee{
 
     @Override
     public double payment() {
-        super.payment();
+        return super.payment() + additionalCharge * 1.1;
     }
+
 }
